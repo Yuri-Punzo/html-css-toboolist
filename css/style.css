@@ -1,0 +1,15 @@
+*{
+    font-family: 'Arial',  sans-serif;
+}
+
+#site_header{
+    background-color: white;
+}
+
+h1{
+    display: inline;
+}
+
+.logo{
+    vertical-align: middle;
+}
