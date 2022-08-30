@@ -13,6 +13,10 @@ body{
     background-color: white;
 }
 
+#site_main{
+    padding-top: 20px;
+}
+
 h1{
     display: inline;
     vertical-align: middle;
@@ -26,7 +30,6 @@ h1{
 .menu{
     background-color: white;
     border-bottom: 2px solid #f6f8f9;
-    margin-top: 2.5rem;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
@@ -86,7 +89,38 @@ h4{
     padding-left: 2px;
 }
 
+.uncheck{
+    color: #eb4e44;
+    border: 1px solid #eb4e44;
+    border-radius: 50%;
+    padding-left: 3px;
+}
+
 .activity{
     padding-left: 10px;
     padding-right: 5px;
+}
+
+.goals{
+    color: white;
+    background-color: #9c72e4;
+    font-size: 12px;
+    padding: 5px 12px 5px 12px;
+    border-radius: 10px;
+}
+
+.recruiting{
+    color: white;
+    background-color: #64c0a9;
+    font-size: 12px;
+    padding: 5px 12px 5px 12px;
+    border-radius: 10px;
+}
+
+.mobile{
+    color: white;
+    background-color: #f29e33;
+    font-size: 12px;
+    padding: 5px 12px 5px 12px;
+    border-radius: 10px;
 }
