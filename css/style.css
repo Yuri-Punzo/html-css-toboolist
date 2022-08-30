@@ -87,12 +87,17 @@ h4{
     border: 1px solid #64c0a9;
     border-radius: 50%;
     text-align: center;
+    width: 20px;
+    height: 20px;
 }
 
 .uncheck{
     color: #eb4e44;
     border: 1px solid #eb4e44;
     border-radius: 50%;
+    text-align: center;
+    width: 20px;
+    height: 20px;
 }
 
 .activity{
@@ -139,4 +144,3 @@ h4{
     padding: 5px 12px 5px 12px;
     border-radius: 10px;
 }
-
