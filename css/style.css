@@ -38,6 +38,7 @@ h1{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1rem;
+    padding-bottom: 1rem;
     width: 70%;
 }
 
@@ -59,3 +60,12 @@ h1{
     margin: 0.5rem 0.5rem 0.5rem 0.25rem;
     padding: 4px 11px 4px 11px;
 }
+
+h4{
+    padding: 25px 12px 2px 45px;
+}
+
+.line{
+    padding: 5px 12px 2px 45px;
+}
+
